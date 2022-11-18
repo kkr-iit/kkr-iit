@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Kishore from Bangladesh, and I do full stack content design and development. I really prefer to learning languages and frameworks like React JS and Spring Boot.
+
+
+
 <!--
 **kkr-iit/kkr-iit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
